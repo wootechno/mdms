@@ -1464,13 +1464,19 @@ body {
 .cid-r8Y2QbW7G8 H2 {
   color: #ff0909;
 }
-.cid-r96RjDL6Jn {
-  padding-top: 60px;
-  padding-bottom: 60px;
+.cid-r8ZoKWQa4z {
+  padding-top: 30px;
+  padding-bottom: 30px;
   background-color: #232323;
 }
-.cid-r96RjDL6Jn H2 {
-  color: #ff0909;
+.cid-r8ZoKWQa4z .mbr-section-subtitle {
+  color: #cccccc;
+}
+.cid-r8ZoKWQa4z .btn {
+  margin: 0 0 .5rem 0;
+}
+.cid-r8ZoKWQa4z H2 {
+  color: #ff521d;
 }
 .cid-r8ZtTRXH4e {
   padding-top: 15px;
